@@ -1,2 +1,2 @@
 # Profile-Scroller-
-<h1><em> Created a Profile Scroller app. (Mini Tinder)</em></h1>
+<h3><em> Created a Profile Scroller app. (Mini Tinder)</em></h3>
